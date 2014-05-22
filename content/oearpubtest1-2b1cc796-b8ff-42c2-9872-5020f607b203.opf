@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>oearpub_test1</dc:title>
+  </metadata>
+  <manifest><item href="oearpubtest1-c2f2fa56-e2ce-476f-8e7f-5b327dbc02a9-nav.html" id="oearpubtest1-c2f2fa56-e2ce-476f-8e7f-5b327dbc02a9-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-053283c4-c1b2-4580-b666-96376ac0c9ba.html" id="module1-053283c4-c1b2-4580-b666-96376ac0c9ba.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-053283c4-c1b2-4580-b666-96376ac0c9ba.html"></itemref></spine>
+</package>
