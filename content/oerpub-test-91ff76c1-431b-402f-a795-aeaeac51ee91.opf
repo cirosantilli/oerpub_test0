@@ -4,6 +4,6 @@
     <dc:identifier id="uid"/>
     <dc:title>oerpub-test</dc:title>
   </metadata>
-  <manifest><item href="oerpub-test-878f1907-8054-4cbc-ae35-334669421de1-nav.html" id="oerpub-test-878f1907-8054-4cbc-ae35-334669421de1-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-3241391f-ae9c-4d5b-a9f7-1c97d9408dbe.html" id="module1-3241391f-ae9c-4d5b-a9f7-1c97d9408dbe.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <manifest><item href="oerpub-test-878f1907-8054-4cbc-ae35-334669421de1-nav.html" id="oerpub-test-878f1907-8054-4cbc-ae35-334669421de1-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-3241391f-ae9c-4d5b-a9f7-1c97d9408dbe.html" id="module1-3241391f-ae9c-4d5b-a9f7-1c97d9408dbe.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="untitled-bb5c44c5-9670-406d-84c4-aa82308c46d4-nav.html" id="untitled-bb5c44c5-9670-406d-84c4-aa82308c46d4-nav.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="module1-6c9b9e7e-af68-43ce-9995-08de43547a01.html" id="module1-6c9b9e7e-af68-43ce-9995-08de43547a01.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-3241391f-ae9c-4d5b-a9f7-1c97d9408dbe.html"></itemref></spine>
 </package>

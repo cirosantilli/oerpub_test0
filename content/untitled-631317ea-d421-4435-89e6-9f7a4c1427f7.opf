@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>Untitled</dc:title>
+  </metadata>
+  <manifest><item href="untitled-bb5c44c5-9670-406d-84c4-aa82308c46d4-nav.html" id="untitled-bb5c44c5-9670-406d-84c4-aa82308c46d4-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-6c9b9e7e-af68-43ce-9995-08de43547a01.html" id="module1-6c9b9e7e-af68-43ce-9995-08de43547a01.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-6c9b9e7e-af68-43ce-9995-08de43547a01.html"></itemref></spine>
+</package>
